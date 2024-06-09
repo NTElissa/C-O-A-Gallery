@@ -34,7 +34,7 @@ To run the image gallery locally, follow these steps:
 2. Navigate to the project directory:
 
     ```
-    cd image-gallery
+    cd C-O-A-Gallery
     ```
 
 3. Open the `index.html` file in your web browser.
